@@ -1,3 +1,3 @@
 # Deep-Learning-study-materials-
--forward and backward propagation ( manual ) 
--Autograd ( Gradient Calculation using Autograd   Vs  Gradient Calculation manual process ) 
+1. forward and backward propagation ( manual ) 
+2. Autograd ( Gradient Calculation using Autograd   Vs  Gradient Calculation manual process ) 
